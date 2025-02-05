@@ -2,11 +2,11 @@
   "name": "xdev-fivem-setup",
   "displayName": "! Xdev's FiveM Resource Setup",
   "description": "Automatically create FiveM resource folder structure and files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ayushmothuAL",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/xdev-fivem-setup.git"
+    "url": "https://github.com/ayushmothuAL/fs-fivem-setup.git"
   },
   "license": "MIT",
   "engines": {
