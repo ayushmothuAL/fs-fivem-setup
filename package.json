@@ -1,41 +1,46 @@
 {
-    "name": "xdev-fivem-setup",
-    "displayName": "! Xdev's FiveM Resource Setup",
-    "description": "Automatically create FiveM resource folder structure and files",
-    "version": "1.0.0",
-    "publisher": "ayushmothuAL",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Other"
-    ],
-    "activationEvents": [
-        "onCommand:xdev-fivem-setup.createResource"
-    ],
-    "main": "./out/extension.js",
-    "contributes": {
-        "commands": [
-            {
-                "command": "xdev-fivem-setup.createResource",
-                "title": "Xdev Resource Setup"
-            }
-        ]
-    },
-    "scripts": {
-        "vscode:prepublish": "npm run compile",
-        "compile": "tsc -p ./",
-        "watch": "tsc -watch -p ./",
-        "pretest": "npm run compile && npm run lint",
-        "lint": "eslint src --ext ts",
-        "test": "node ./out/test/runTest.js"
-    },
-    "devDependencies": {
-        "@types/vscode": "^1.60.0",
-        "@types/node": "^14.x.x",
-        "@typescript-eslint/eslint-plugin": "^4.x.x",
-        "@typescript-eslint/parser": "^4.x.x",
-        "eslint": "^7.x.x",
-        "typescript": "^4.x.x"
-    }
- }
+  "name": "xdev-fivem-setup",
+  "displayName": "! Xdev's FiveM Resource Setup",
+  "description": "Automatically create FiveM resource folder structure and files",
+  "version": "1.0.0",
+  "publisher": "ayushmothuAL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/xdev-fivem-setup.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:xdev-fivem-setup.createResource"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "xdev-fivem-setup.createResource",
+        "title": "Xdev Resource Setup"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "node ./out/test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.60.0",
+    "@types/node": "^14.x.x",
+    "@typescript-eslint/eslint-plugin": "^4.x.x",
+    "@typescript-eslint/parser": "^4.x.x",
+    "eslint": "^7.x.x",
+    "typescript": "^4.x.x"
+  }
+}
