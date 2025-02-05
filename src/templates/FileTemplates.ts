@@ -25,8 +25,8 @@ ui_page 'Web/index.html'
 
 files {
     'Web/index.html',
-    'Web/css/ui.css',
-    'Web/js/ui.js',
+    'Web/style.css',
+    'Web/script.js',
     'Web/Assets/**/*'
 }`,
 

@@ -2,16 +2,15 @@
 
 A Visual Studio Code extension that streamlines the creation of FiveM resource projects by automatically generating the necessary folder structure and boilerplate files.
 
-![Version](https://img.shields.io/visual-studio-marketplace/v/your-publisher.lockser-fivem-setup)
-![Installs](https://img.shields.io/visual-studio-marketplace/i/your-publisher.lockser-fivem-setup)
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/your-publisher.lockser-fivem-setup)
-![Rating](https://img.shields.io/visual-studio-marketplace/r/your-publisher.lockser-fivem-setup)
+![Version](https://img.shields.io/visual-studio-marketplace/v/ayushmothuAL.xdev-fivem-setup)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/ayushmothuAL.xdev-fivem-setup)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/ayushmothuAL.xdev-fivem-setup)
+![Rating](https://img.shields.io/visual-studio-marketplace/r/ayushmothuAL.xdev-fivem-setup)
 
 ## Features
 
 - 📁 Automatically creates a complete FiveM resource folder structure
 - 📝 Generates essential files with modern boilerplate code
-- 🔧 Includes ESX framework integration examples
 - 💻 NUI (HTML/CSS/JS) templates included
 - ⚡ Performance-optimized code templates
 - 🛠️ Configuration and localization support built-in
@@ -88,10 +87,6 @@ your-resource/
 
 This extension currently has no configurable settings. Future versions may include customizable templates and configurations.
 
-## Known Issues
-
-Please report any issues on our [GitHub repository](https://github.com/your-username/lockser-fivem-setup/issues).
-
 ## Release Notes
 
 ### 1.0.0
@@ -110,9 +105,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## Support
 
 If you need help or have questions:
-- Create an issue on [GitHub](https://github.com/your-username/lockser-fivem-setup/issues)
-- Contact me on Discord: Your_Discord_Username
-- Visit our [Documentation](https://your-documentation-link.com)
+- Create an issue on [GitHub](https://github.com/ayushmothuAL/fs-fivem-setup/issues)
+- Contact me on Discord: codewithXdev
 
 ## Credits
 
