@@ -2,7 +2,7 @@
   "name": "xdev-fivem-setup",
   "displayName": "! Xdev's FiveM Resource Setup",
   "description": "Automatically create FiveM resource folder structure and files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "ayushmothuAL",
   "repository": {
     "type": "git",
