@@ -8,12 +8,12 @@ description 'Resource Description'
 version '1.0.0'
 
 client_scripts {
-    'Modules/**/*.lua'
+    'Modules/cl_main.lua'
 }
 
 server_scripts {
     '@oxmysql/lib/MySQL.lua',
-    'Modules/**/*.lua'
+    'Modules/cl_main.lua'
 }
 
 shared_scripts {
